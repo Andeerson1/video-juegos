@@ -1,7 +1,7 @@
 body{
     margin: auto;
     padding: 11px;
-    background: url(http://127.0.0.1:5500/css/../img/450_1000.jpg);
+    background: url(../img/450_1000.jpg);
     background-size: auto;
     background-position: unset;
     font-family: -webkit-body;
